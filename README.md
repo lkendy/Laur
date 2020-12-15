@@ -1,2 +1,0 @@
-# Laur
-My Projects
